@@ -2,7 +2,7 @@
 |-------------------|---------------|
 |  Pemrograman Web  |  Praktikum 7  |
 
-# Lab11Web
+# Lab7Web
 Dalam praktikum ini kita akan membuat program sederhana menggunakan Framework
 Codeigniter 4.
 
@@ -18,7 +18,7 @@ Codeigniter 4.
 
 ## 3). Instalasi Codeigniter 4
 Untuk melakukan instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara manual dan menggunakan composer. Pada praktikum ini kita menggunakan cara manual.
-Buka browser dengan alamat http://localhost/Lab11Web/lab11_php_ci/ci4/public/
+Buka browser dengan alamat http://localhost/Lab7Web/lab7_php_ci/ci4/public/
 
 ![install](img/3.png)
 
@@ -26,7 +26,7 @@ Buka browser dengan alamat http://localhost/Lab11Web/lab11_php_ci/ci4/public/
 Menjalankan CLI (Command Line Interface) Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk mengakses CLI buka terminal/command prompt.
 ![CLI](img/4.png)
 Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat
-(xampp/htdocs/Lab11Web/lab11_php_ci/ci4)
+(xampp/htdocs/Lab7Web/lab7_php_ci/ci4)
 Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
 ```CLI
 php spark
@@ -204,7 +204,7 @@ Integer pharetra est nunc, nec pretium nunc pretium ac.</p>
     </aside>
 </section>
 <footer>
-    <p>&copy; 2022 - Universitas Pelita Bangsa</p>
+    <p>&copy; 2023 - Universitas Pelita Bangsa</p>
 </footer>
 </div>
 </body>
